@@ -1,4 +1,4 @@
-#Modified by by Usama Khawar 2K18/ELE/119 , Dua Asif 2K18/ELE/25
+#Modified by Usama Khawar 2K18/ELE/119 , Dua Asif 2K18/ELE/25
 try:
     from PIL import Image
 except ImportError:
